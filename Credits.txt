@@ -1,0 +1,7 @@
+--Tiles--
+Pandamaru
+Indrah
+Avery
+
+--Character templates--
+Hidenone

@@ -1,0 +1,43 @@
+background<=>DizzyBG
+music<=>Scene3
+repeat<=>true
+delay<=>200
+path<=>/Sis/hj/
+nameimgs<=>hj
+dialogue<=>### Act1 ###
+dialogue<=>\N[1]: Hey, \N[3]! Ready to test the scene player?
+dialogue<=>\N[3]: Hey, \N[0]! Sure, let's start with a simple handjob.
+dialogue<=>\N[1]: If you insist, but what are we testing?
+dialogue<=>\N[3]: For example, we can already see our names, so \ N[x] works.
+dialogue<=>\N[1]: Neat, does it work with variables too?
+dialogue<=>\N[3]: Let's try, type \ + V[2] for instance.
+dialogue<=>\N[3]: It returns \V[2].
+dialogue<=>\N[1]: Oh, it works.
+--separate--
+delay<=>40
+dialogue<=>### Act2 ###
+dialogue<=>\N[1]: Oh it's accelerating.
+dialogue<=>\N[3]: Yeah, and did you notice that the background and the music didn't change?
+dialogue<=>\N[1]: Now that you mention it, but only delay was set in this act.
+dialogue<=>\N[3]: It actually keeps the previous acts parameters.
+dialogue<=>\N[1]: So you don't have to type them again, cool.
+--separate--
+delay<=>20
+dialogue<=>### Act3 ###
+dialogue<=>\N[1]: Wow, are you trying to set my dick on fire?
+dialogue<=>\N[3]: Just testing some speed, by the way, the delay is in milliseconds.
+dialogue<=>\N[1]: Woooo, I'm pretty close.
+dialogue<=>\N[3]: Nice, we have several things to test in the next act.
+dialogue<=>\N[3]: The animation must be executed once and a splash sound must be heard at the 7th frame.
+dialogue<=>\N[1]: Sure, sure...nnmh...keep going.
+--separate--
+delay<=>100
+repeat<=>false
+path<=>/Sis/hj-cum/
+sound<=>7<=>Splash
+nameimgs<=>hj-cum
+dialogue<=>### Ending ###
+dialogue<=>\N[1]:Ngh !!
+dialogue<=>\N[3]:Alright, let's check if the tests are conclusives.
+dialogue<=>\N[1]:I usually don't like testing but I had fun for once.
+

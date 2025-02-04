@@ -1,0 +1,10 @@
+days<=>0
+periods<=>0
+text<=>Wanna go out?
+progress_min<=>2
+switch<=>10
+condition<=>progress<=><<=>3<=>false<=>no
+corruption<=>><=>5<=>true<=>Oh yes!
+purity<=>><=>5<=>true<=>Mmmh, yes!
+default<=>true<=>yes
+
